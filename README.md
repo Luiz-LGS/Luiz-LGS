@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e" alt="Banner de Setup" width="100%" />
+  <img src="l-from-death-note.1920x1080.gif" alt="Banner L Death Note" width="100%" />
 </div>
 
 <br />
