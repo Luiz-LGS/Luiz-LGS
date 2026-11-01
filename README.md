@@ -2,7 +2,7 @@
   <h1>Luiz Gustavo Sá da Silva</h1>
   <h3>Desenvolvedor Full Stack</h3>
   
-  *"Construindo interfaces dinâmicas e APIs robustas para solucionar problemas reais."*
+  *"Sonhos não têm prazo de validade, mas exigem coragem diária para serem alcançados."*
 </div>
 
 <br />
