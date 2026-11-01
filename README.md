@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>[Seu Nome]</h1>
+  <h1>Luiz Gustavo Sá da Silva</h1>
   <h3>Desenvolvedor Full Stack</h3>
   
   *"Construindo interfaces dinâmicas e APIs robustas para solucionar problemas reais."*
@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhvZHZidm50ZnBvdG9iNHB5YmI5ZDBnaHJwNm0zbHh2cW4waHF3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPcAO14v7Y84vYI/giphy.gif" alt="Banner Animado Pixel Art" width="100%" />
+  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e" alt="Banner Animado Pixel Art" width="100%" />
 </div>
 
 <br />
@@ -39,12 +39,12 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-LGS&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/[seu-usuario]/count.svg" alt="Contador de Visitas" />
+  <img src="https://profile-counter.glitch.me/Luiz-LGS/count.svg" alt="Contador de Visitas" />
 </div>
