@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e" alt="Banner Animado Pixel Art" width="100%" />
+  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e" alt="Banner de Setup" width="100%" />
 </div>
 
 <br />
@@ -17,8 +17,13 @@
   <h3>🛠️ Minhas Tecnologias</h3>
   
   <p><b>Frontend</b></p>
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   
   <br />
   
@@ -46,5 +51,5 @@
 <br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Luiz-LGS/count.svg" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Luiz-LGS&label=Visitas&color=0078D4&style=flat" alt="Contador de Visitas" />
 </div>
