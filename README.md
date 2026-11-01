@@ -1,44 +1,50 @@
 <div align="center">
-  <h1>Seu Nome Aqui</h1>
-  <h3>Sua Profissão / Cargo (ex: Desenvolvedor Front-End / Estudante)</h3>
+  <h1>[Seu Nome]</h1>
+  <h3>Desenvolvedor Full Stack</h3>
   
-  *“Coloque aqui uma frase ou citação que você goste e que combine com você.”*
+  *"Construindo interfaces dinâmicas e APIs robustas para solucionar problemas reais."*
 </div>
 
 <br />
 
-<!-- IMAGEM DE CAPA / BANNER -->
-<!-- Dica: Você pode hospedar um GIF ou imagem de sua escolha no imgur.com ou dentro do próprio repositório e colocar o link aqui -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhvZHZidm50ZnBvdG9iNHB5YmI5ZDBnaHJwNm0zbHh2cW4waHF3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPcAO14v7Y84vYI/giphy.gif" alt="Banner Animado Pixel Art" width="100%" />
 </div>
 
 <br />
 
-<!-- HABILIDADES / BADGES -->
-<!-- Você pode trocar os nomes e cores. O site 'shields.io' gera esses botões -->
 <div align="center">
-  <h3>Minhas Tecnologias 🚀</h3>
+  <h3>🛠️ Minhas Tecnologias</h3>
   
-  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <p><b>Frontend</b></p>
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
   <br />
   
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <p><b>Backend & Banco de Dados</b></p>
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  
+  <br />
+  
+  <p><b>Ferramentas</b></p>
+  <img src="https://img.shields.io/badge/VSCODE-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
 <br />
 
-<!-- CONTADOR DE VISITAS -->
-<!-- Substitua 'seu-usuario' pelo seu nome de usuário do GitHub -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/seu-usuario/count.svg" alt="Contador de Visitas" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/[seu-usuario]/count.svg" alt="Contador de Visitas" />
 </div>
