@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-LGS&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Luiz-LGS&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estatísticas do GitHub" />
   </a>
 </div>
 
